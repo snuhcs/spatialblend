@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use SpatialBlend, please cite the UIST '26 paper below."
+title: "SpatialBlend: Relational Reconstruction for Cross-Space Presence in Heterogeneous Spaces"
+type: software
+authors:
+  - family-names: Lee
+    given-names: Jingyu
+    affiliation: Seoul National University
+  - family-names: Han
+    given-names: Dongho
+    affiliation: Seoul National University
+  - family-names: Kim
+    given-names: Jinmyeong
+    affiliation: Seoul National University
+  - family-names: Lee
+    given-names: Youngki
+    affiliation: Seoul National University
+repository-code: "https://github.com/snuhcs/spatialblend"
+preferred-citation:
+  type: conference-paper
+  title: "SpatialBlend: Relational Reconstruction for Cross-Space Presence in Heterogeneous Spaces"
+  authors:
+    - family-names: Lee
+      given-names: Jingyu
+      affiliation: Seoul National University
+    - family-names: Han
+      given-names: Dongho
+      affiliation: Seoul National University
+    - family-names: Kim
+      given-names: Jinmyeong
+      affiliation: Seoul National University
+    - family-names: Lee
+      given-names: Youngki
+      affiliation: Seoul National University
+  collection-title: "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology"
+  collection-type: proceedings
+  conference:
+    name: "UIST '26"
+    city: Detroit
+    region: MI
+    country: US
+    date-start: 2026-11-02
+    date-end: 2026-11-05
+  publisher:
+    name: Association for Computing Machinery
+  year: 2026
+  doi: 10.1145/3830398.3830690
+  isbn: 979-8-4007-2856-3
