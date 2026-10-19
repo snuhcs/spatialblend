@@ -10,6 +10,9 @@
 
 **[📄 Paper (ACM DL)](https://doi.org/10.1145/3830398.3830690) · [🎬 Demo video](https://www.youtube.com/watch?v=3TWBkZOWY_4)**
 
+**Status:** paper accepted at UIST '26 · code release planned for the conference (Nov 2–5, 2026) · implemented in Unity on Meta Quest 3
+**Links:** [Paper](https://doi.org/10.1145/3830398.3830690) · [Video](https://www.youtube.com/watch?v=3TWBkZOWY_4) · [Author page](https://jingyulee.com) · [Cite](CITATION.cff)
+
 ---
 
 ## 🎬 Demo video
@@ -23,6 +26,13 @@
 **The source code is not published yet.** We will open-source SpatialBlend in this repository at the time of the conference presentation — **early November 2026, during UIST '26 (Nov 2–5, Detroit)**.
 
 Until then this repository holds only the project description. Watch or star the repo to be notified when the code lands.
+
+<!-- Code-release checklist (TODO(jingyu)), to do together when the code lands:
+     1. add a LICENSE file (license choice pending);
+     2. replace this "Code release" section with Requirements / Quick start
+        (Unity version, Quest 3 build, native core + Unity plugin);
+     3. add a repo map and the relation to the native runtime core;
+     4. add a "version" / "date-released" to CITATION.cff. -->
 
 ---
 
@@ -78,6 +88,8 @@ Runtime cost stays a small fraction of the frame budget across the range of geom
 Jingyu Lee, Dongho Han, Jinmyeong Kim, and Youngki Lee (Seoul National University)
 *UIST '26: Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology*
 DOI: [10.1145/3830398.3830690](https://doi.org/10.1145/3830398.3830690)
+
+GitHub's "Cite this repository" uses [CITATION.cff](CITATION.cff); the BibTeX is:
 
 ```bibtex
 @inproceedings{lee2026spatialblend,
