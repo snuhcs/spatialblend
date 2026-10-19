@@ -8,21 +8,21 @@
 
 > **Freeform Collaboration in heterogeneous spaces.** User A (office) and User B (living room) interact through avatars while remaining in different rooms. SpatialBlend preserves interaction-relevant structure across the two spaces, keeping Avatar A interpretable in User B's room despite differences in geometry, topology, and affordances.
 
-**[📄 Paper (ACM DL)](https://doi.org/10.1145/3830398.3830690) · [🎬 Demo video](https://www.youtube.com/watch?v=3TWBkZOWY_4)**
+**[Paper (ACM DL)](https://doi.org/10.1145/3830398.3830690) · [Demo video](https://www.youtube.com/watch?v=3TWBkZOWY_4)**
 
 ---
 
-## 🎬 Demo video
+## Demo video
 
 [![SpatialBlend demo video: two users in an office and a living room walk, converse, and interact with shared virtual and physical objects while each remote avatar is continuously adapted to the local room.](https://img.youtube.com/vi/3TWBkZOWY_4/maxresdefault.jpg)](https://www.youtube.com/watch?v=3TWBkZOWY_4)
 
 ---
 
-## 🗓 Code release
+## Code release
 
 **The source code is not published yet.** We will open-source SpatialBlend in this repository at the time of the conference presentation — **early November 2026, during UIST '26 (Nov 2–5, Detroit)**.
 
-Until then this repository holds only the project description. Watch or star the repo to be notified when the code lands.
+Until then this repository holds only the project description (this README and `docs/assets/`). Watch or star the repo to be notified when the code lands.
 
 ---
 
